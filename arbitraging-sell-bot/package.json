@@ -1,0 +1,16 @@
+{
+  "name": "arb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "ali behroozi",
+  "license": "ISC",
+  "dependencies": {
+    "cookie": "^0.3.1",
+    "https": "^1.0.0",
+    "request": "^2.88.0"
+  }
+}
